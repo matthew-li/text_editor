@@ -1,5 +1,5 @@
-Notepad
-=======
+Text Editor
+===========
 
 A text editor, modeled after Windows Notepad.
 
